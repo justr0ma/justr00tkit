@@ -39,4 +39,7 @@ https://arttnba3.cn/2021/07/07/CODE-0X01-ROOTKIT/#0x03-%E6%A8%A1%E5%9D%97%E9%9A%
 
 https://elixir.bootlin.com/linux/latest/source
 
+https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md
+
+
 😴😴

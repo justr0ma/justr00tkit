@@ -10,11 +10,11 @@ just-r00tkit a kernel land rootkit for Linux kernel 5.X that can:
 
 # how to use it:
 
-- clone [the repo](https://github.com/justr0ma/justr00tkit.git) justr00tk
+- clone https://github.com/justr0ma/justr00tkit.git justr00tk
 
 - cd to justr00tk && make
 
-- insmode justrootk.o
+- insmod justrootk.o
 
 https://github.com/justr0ma/just-r00tkit/assets/112334569/44f0cbb9-f9b1-485e-90bb-f46f3b9736e2
 

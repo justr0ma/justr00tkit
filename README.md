@@ -16,7 +16,9 @@ just-r00tkit a kernel land rootkit for Linux kernel 5.X that can:
 
 - insmod justrootk.o
 
-https://github.com/justr0ma/just-r00tkit/assets/112334569/44f0cbb9-f9b1-485e-90bb-f46f3b9736e2
+
+https://github.com/justr0ma/justr00tkit/assets/112334569/e390822c-89bd-49c6-8040-0a412a65bd30
+
 
 
 # some useful resources:

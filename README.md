@@ -10,7 +10,10 @@ just-r00tkit a kernel land rootkit for Linux kernel 5.X that can:
 
 # how to use it:
 
-``` shell git clone https://github.com/justr0ma/justr00tkit.git justr00tk ```
+``` 
+shell
+git clone https://github.com/justr0ma/justr00tkit.git justr00tk
+```
 
 ``` shell cd justr00tk && make ```
 
